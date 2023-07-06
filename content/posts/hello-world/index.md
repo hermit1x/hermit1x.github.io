@@ -21,10 +21,10 @@ tags: ['立下的flag']
 
 <center><img src="miku.gif" width="50%"  /></center>
 
-## Latex 公式支持
+## $\LaTeX$ 公式支持测试
 
-有空再弄...
+$$ e^{i \pi} + 1 = 0$$
 
 ## 站内搜索
 
-好像还是坏的，有空再弄...
+引擎更改为lunr后基本能用了（？）

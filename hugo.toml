@@ -231,7 +231,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     placeholder = ""
     # max number of results length
     # 最大结果数目
-    maxResultLength = 10
+    maxResultLength = 20
     # snippet length of the result
     # 结果内容片段长度
     snippetLength = 30
@@ -283,7 +283,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       enable = true
       # special amount of posts in each home posts page
       # 主页每页显示文章数量
-      paginate = 6
+      paginate = 10
   # Social config in home page
   # 主页的社交信息设置
   [params.social]
@@ -416,7 +416,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     # KaTeX mathematical formulas config (KaTeX https://katex.org/)
     # KaTeX 数学公式配置 (KaTeX https://katex.org/)
     [params.page.math]
-      enable = false
+      enable = true
       # default inline delimiter is $ ... $ and \( ... \)
       # 默认行内定界符是 $ ... $ 和 \( ... \)
       inlineLeftDelimiter = ""
@@ -485,7 +485,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     # Comment config
     # 评论系统设置
     [params.page.comment]
-      enable = true
+      enable = false
       # Disqus comment config (https://disqus.com/)
       # Disqus 评论系统设置 (https://disqus.com/)
       [params.page.comment.disqus]
