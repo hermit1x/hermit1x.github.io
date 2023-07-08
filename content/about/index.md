@@ -35,3 +35,23 @@ tags: [""]
 [XuKaFy's Blog](https://xukafy.github.io/) （maimai神）
 
 [Teruteru's Blog](http://47.100.52.206/) (什么都会的晴天娃娃学长)
+
+## 一些ushio的战绩（？）
+
+写一点点在这里，以防以后ushio自己想不起来了。
+
+NOIP2018提高三等奖（菜）
+
+CSP2019提高二等奖（还是菜）
+
+这里还有一个数学省三（不清楚叫什么）
+
+SJTUCTF2022 校赛rank6（感觉还行？）
+
+华为ICT创新赛AI赛道全国一等奖（做作品的奖项没什么意思）
+
+华为ICT GLOBAL FINAL 二等奖（和上面那个一样的）
+
+CISCN2023 区域赛三等奖 （真去旅游了，乐。明年再努力）
+
+UIUCTF2023 rank51 （都是队友大爹打的分，我和我们真是太强啦）
