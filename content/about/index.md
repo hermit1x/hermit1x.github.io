@@ -23,6 +23,14 @@ tags: [""]
 
 #### 在某些平行时空也有形如“华华”的名字
 
+如果你想问ushio是哪一个ushio的话......
+
+选这个名字的时候是左边的ushio，但是在夏日重现之后也可以是右边的ushio.
+
+<center class="half">
+    <img src="ushio1.jpg" width="45%" />
+    <img src="ushio2.jpg" width="45%" />
+</center>
 
 ## 友链
 
