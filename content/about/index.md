@@ -40,9 +40,9 @@ tags: [""]
 
 [YYY's Blog](https://cubicy.icu) (AAA的web大爹，浙大cs神)
 
-[XuKaFy's Blog](https://xukafy.github.io/) （maimai神）
-
 [Teruteru's Blog](http://47.100.52.206/) (什么都会的晴天娃娃学长)
+
+[timlzh's Blog](https://timlzh.com/) (NAS领域大神啊)
 
 ## 一些ushio的战绩（？）
 
