@@ -1,3 +1,3 @@
-# ushio 的小站 [ush1o.icu](https://ushio.icu)
+# ushio 的小站 [ushio.icu](https://ushio.icu)
 
 建设中...
