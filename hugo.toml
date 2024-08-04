@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://www.hermitix.com"
 
 # theme
 # 主题
@@ -9,7 +9,7 @@ theme = "loveit"
 
 # website title
 # 网站标题（是显示在标签栏的那个）
-title = "ushio的小站"
+title = "hermitix的小站"
 
 # determines default content language ["en", "zh-cn", "fr", "pl", ...]
 # 设置默认的语言 ["en", "zh-cn", "fr", "pl", ...]
@@ -51,7 +51,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 # Author config
 # 作者配置
 [author]
-  name = "ushio"
+  name = "hermitix"
   email = ""
   link = ""
 
@@ -106,10 +106,10 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   dateFormat = "2006-01-02"
   # website title for Open Graph and Twitter Cards
   # 网站标题, 用于 Open Graph 和 Twitter Cards
-  title = "ushio的小站"
+  title = "hermitix的小站"
   # website description for RSS, SEO, Open Graph and Twitter Cards
   # 网站描述, 用于 RSS, SEO, Open Graph 和 Twitter Cards
-  description = "ushio的小站 - 记录技术学习与生活碎碎念"
+  description = "hermitix的小站 - 记录技术学习与生活碎碎念"
   # website images for Open Graph and Twitter Cards
   # 网站图片, 用于 Open Graph 和 Twitter Cards
   images = ["/avatar.jpg"]
@@ -131,7 +131,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       logo = ""
       # title name
       # 标题名称
-      name = "ushio"
+      name = "hermitix"
       # you can add extra information before the name (HTML format is supported), such as icons
       # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
       pre = ""
@@ -199,7 +199,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   [params.app]
     # optional site title override for the app when added to an iOS home screen or Android launcher
     # 当添加到 iOS 主屏幕或者 Android 启动器时的标题, 覆盖默认标题
-    title = "ushio的小站"
+    title = "hermitix的小站"
     # whether to omit favicon resource links
     # 是否隐藏网站图标资源链接
     noFavicon = false
@@ -862,7 +862,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
           enable = true
           gravatarEmail = ""
           avatarURL = "avatar.jpg"
-          title = "ushio的小站"
+          title = "hermitix的小站"
           subtitle = "$ sudo rm -rf /"
           typeit = true
           social = true

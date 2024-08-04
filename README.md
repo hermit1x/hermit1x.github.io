@@ -1,3 +1,3 @@
-# ushio 的小站 [ushio.icu](https://ushio.icu)
+# hermitix 的小站 [hermitix.com](https://www.hermitix.com)
 
 建设中...
