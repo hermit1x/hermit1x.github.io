@@ -863,7 +863,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
           gravatarEmail = ""
           avatarURL = "avatar.jpg"
           title = "Hermitix的小站"
-          subtitle = "Hermitix 是隐士九的意思哦"
+          subtitle = "$ alias Hermitix = 隐士IX"
           typeit = true
           social = true
           disclaimer = ""
