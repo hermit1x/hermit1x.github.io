@@ -42,7 +42,9 @@ tags: [""]
 
 [Teruteru's Blog](http://47.100.52.206/) (什么都会的晴天娃娃学长)
 
-[timlzh's Blog](https://timlzh.com/) (NAS领域大神啊)
+[timlzh's Blog](https://timlzh.com/) （NAS领域大神啊）
+
+[WTSSS's Blog](https://www.wtsss.fun/)（音乐领域大神啊）
 
 ## 一些ushio的战绩（？）
 
